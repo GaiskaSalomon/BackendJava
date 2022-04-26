@@ -1,6 +1,6 @@
 package practicaHarry;
 
-public class pruebaPersonaje {
+public class PruebaPersonaje {
 
     public static void main(String[] args) {
         harryPotter();
